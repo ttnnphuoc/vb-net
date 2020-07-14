@@ -1,0 +1,12 @@
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\bin\Debug\CoreLibrary.dll
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\bin\Debug\CoreLibrary.pdb
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\bin\Debug\CoreLibrary.xml
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\obj\Debug\DataAccess.vbprojResolveAssemblyReference.cache
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\obj\Debug\DataAccess.Resources.resources
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\obj\Debug\DataAccess.vbproj.GenerateResource.Cache
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\obj\Debug\DataAccess.xml
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\DataAccess\obj\Debug\DataAccess.pdb

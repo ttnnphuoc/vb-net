@@ -1,0 +1,24 @@
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\PTProject.exe.config
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\PTProject.exe
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\PTProject.pdb
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\Common.exe
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\CoreLibrary.dll
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\DataAccess.dll
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\System.Threading.dll
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\Common.pdb
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\CoreLibrary.pdb
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\CoreLibrary.xml
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\DataAccess.pdb
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\DataAccess.xml
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\bin\Debug\System.Threading.xml
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\obj\Debug\PTProject.vbprojResolveAssemblyReference.cache
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\obj\Debug\PTProject.FormAction.resources
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\obj\Debug\PTProject.FrmDetail.resources
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\obj\Debug\PTProject.Resources.resources
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\obj\Debug\PTProject.vbproj.GenerateResource.Cache
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\obj\Debug\PTProject.exe.licenses
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\obj\Debug\PTProject.exe
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\PTProject\obj\Debug\PTProject.pdb
+C:\Users\ngocp\OneDrive\Desktop\Jobs Freelance\VB\PTProject\PTProject\bin\Debug\PTProject.exe.config
+C:\Users\ngocp\OneDrive\Desktop\Jobs Freelance\VB\PTProject\PTProject\obj\Debug\PTProject.exe
+C:\Users\ngocp\OneDrive\Desktop\Jobs Freelance\VB\PTProject\PTProject\obj\Debug\PTProject.pdb

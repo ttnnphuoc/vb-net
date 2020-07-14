@@ -1,0 +1,8 @@
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\CoreLibrary\bin\Debug\CoreLibrary.dll
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\CoreLibrary\bin\Debug\CoreLibrary.pdb
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\CoreLibrary\bin\Debug\CoreLibrary.xml
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\CoreLibrary\obj\Debug\CoreLibrary.Resources.resources
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\CoreLibrary\obj\Debug\CoreLibrary.vbproj.GenerateResource.Cache
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\CoreLibrary\obj\Debug\CoreLibrary.dll
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\CoreLibrary\obj\Debug\CoreLibrary.xml
+C:\Users\ngocp\OneDrive\Desktop\C#\PTProject\CoreLibrary\obj\Debug\CoreLibrary.pdb

@@ -1,0 +1,9 @@
+﻿1.Load dữ lên: GridView - Grid Control, theo câu lệnh SQL
+2.Load dữ liện lên: ComboBoxEdit, tạo ComboBoxEdit nhiều cột, khi chọn dòng nào thì gán dữ liệu các cột tương ứng vào từng text (hay dùng GridLookUpEdit?)
+3.Tạo tạo ComboBoxEdit nhiều cột, khi chọn dòng nào thì gán dữ liệu các cột tương ứng vào từng cột trong GridView - Grid Control
+4.Tạo CheckEdit, DateEdit, trong GridView - Grid Control
+5.Truyền dữ liệu thừ From 1 sang from 2: Khi chọn 1 dòng dữ lieu form 1, nhấn nút xem => mở From 2 với dữ liệu tương ứng, Ngược lại fprm 2 nhập dự liệu mới bấm Lưu sẽ chuyển qua form 1
+6.Viết hàm gửi mail, có thể đính kèm file theo duong dẫn dang có, lấy nội dung từ text tren form
+8.Import dữ liệu từ excel, Export ra excel
+
+Còn tồn động cái số 7.
